@@ -1,0 +1,4 @@
+In this simulation we considerd latency for each links. 
+Our simulation campares egde computing and cloud computing.
+This code is only simulate one service chain.(multiple service chain for futur works).
+
